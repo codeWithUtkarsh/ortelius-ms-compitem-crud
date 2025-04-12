@@ -1,6 +1,6 @@
 # psycopg2==2.8.6 - installed by base image
 #sqlalchemy - installed by base image
 #fastapi - installed by base image
-uvicorn==0.15.0
-pydantic==1.8.2
-requests==2.25.0
+uvicorn==0.34.0
+pydantic==2.11.3
+requests==2.32.3
